@@ -3,6 +3,7 @@ package org.lang;
 public class SamplePgm {
 	
 	public static void main(String[] args) {
+		String s5="Jey";
 		String s="Welcome";
 		String s1="";
 		String s2="GreensTechnology";
